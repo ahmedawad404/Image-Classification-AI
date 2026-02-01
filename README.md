@@ -16,4 +16,4 @@ This project is an AI-based image classification system developed to automate th
 
 ## Live Demo
 You can explore the code and run the interactive notebook via Google Colab:
-[Insert Your Colab Link Here]
+https://colab.research.google.com/drive/1R1CVbNtwbf-iC9M3r0muRr5a1t1hUa9x
